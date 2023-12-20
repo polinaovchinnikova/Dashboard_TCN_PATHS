@@ -1,0 +1,368 @@
+﻿PID,Site,ScreeningDate,ParticipantEligible,ArmAssignment,Race,Gender,StartContinue,MOUDType,ReferralSource,DaysIncarcerated,Age,OUDScore,PtDatabase::PIDStatus,PtDatabase::CommJailEnrollment,PtDatabase::EnrollmentDate
+1111,CT,04/14/2021,Yes,TCN,Non-Hispanic White,Male,Started,Methadone,Community SUD Tx,113,51,,Completed,Community,04/16/2021
+1114,NC,05/14/2021,No,,,,,No MOUD,Jail/Prison SUD Tx,243,21,,,,
+1115,CT,05/14/2021,No,SPC,Hispanic,Male,Started,Methadone,Community SUD Tx,81,49,,Completed,Community,04/21/2021
+1132,CT,05/24/2021,No,,,,Continued,Methadone,Community SUD Tx,229,58,,,,
+1156,NC,07/07/2021,Yes,SPC,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,41,48,,Completed,Jail,07/07/2021
+1158,CT,07/08/2021,Yes,TCN,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,83,55,,Completed,Community,07/13/2021
+1165,NC,07/30/2021,Yes,TCN,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,111,39,,Completed,Jail,07/30/2021
+1168,CT,08/09/2021,No,,,,Started,Methadone,Community SUD Tx,16,42,,,,
+1175,CT,08/30/2021,No,,,,,,Community SUD Tx,220,,,,,
+1180,CT,10/11/2021,Yes,,Non-Hispanic White,Male,Started,Methadone,Community SUD Tx,269,41,,,,
+1190,NC,10/20/2021,Yes,TCN,Non-Hispanic Black,Male,Continued,Methadone,Jail/Prison SUD Tx,82,37,,Did Not Complete BL,Jail,10/20/2021
+1191,BX,10/21/2021,Yes,SPC,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,92,53,,Completed,Community,10/21/2021
+1194,CT,11/10/2021,Yes,SPC,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,386,56,,Pt Withdrew,Community,11/16/2021
+1195,BX,11/10/2021,Yes,TCN,Non-Hispanic Black,Male,Started,Methadone,Jail/Prison Medical,29,56,,Deceased,Community,11/11/2021
+1196,BX,11/15/2021,Yes,TCN,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,687,30,,Completed,Community,11/18/2021
+1199,CT,11/22/2021,No,,,,Continued,Methadone,Community SUD Tx,74,41,,,,
+1201,BX,11/29/2021,No,,,,Continued,Buprenorphine,Jail/Prison Medical,60,47,,,,
+1202,BX,11/29/2021,Yes,SPC,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,128,48,,Completed,Community,12/02/2021
+1206,BX,12/09/2021,Yes,SPC,Hispanic,Male,Started,Buprenorphine,Jail/Prison SUD Tx,62,29,,Active,Community,12/15/2021
+1207,BX,12/15/2021,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Discharge Planner,693,42,,,,
+1217,NC,12/29/2021,Yes,TCN,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,970,50,,Completed,Community,12/29/2021
+1218,CT,01/18/2022,Yes,,Hispanic,Female,Started,Methadone,Jail/Prison MH/SW,321,52,,,,
+1219,CT,01/18/2022,Yes,TCN,Hispanic,Male,Continued,Methadone,Community SUD Tx,729,54,,Active,Community,01/21/2022
+1220,CT,01/19/2022,No,,,,Started,Methadone,Jail/Prison SUD Tx,157,29,,,,
+1224,CT,01/25/2022,Yes,TCN,Non-Hispanic White,Male,Started,Methadone,Community SUD Tx,295,46,,Completed,Community,01/28/2022
+1227,CT,01/27/2022,Yes,SPC,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,18,31,,Active,Community,02/07/2022
+1239,MN,02/15/2022,Yes,SPC,Other,Male,Started,Buprenorphine,Jail/Prison Medical,18,31,,Active,Jail,02/15/2022
+1242,MN,02/22/2022,Yes,TCN,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,40,31,,Completed,Jail,02/25/2022
+1243,CT,02/24/2022,Yes,TCN,Non-Hispanic White,Male,Started,Methadone,Community SUD Tx,169,27,,Completed,Community,02/25/2022
+1244,NC,03/02/2022,Yes,SPC,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison SUD Tx,179,48,,Completed,Community,03/02/2022
+1245,MN,02/27/2022,Yes,SPC,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,22,36,,Deceased,Jail,02/27/2022
+1246,MN,02/27/2022,Yes,TCN,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,17,20,,Completed,Community,02/27/2022
+1247,CT,03/09/2022,Yes,SPC,Other,Male,Continued,Methadone,Jail/Prison SUD Tx,452,55,,Completed,Community,03/14/2022
+1251,MN,03/15/2022,Yes,TCN,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,18,36,,Active,Jail,03/15/2022
+1255,PR,03/23/2022,Yes,SPC,Hispanic,Male,Started,Methadone,Jail/Prison MH/SW,1822,32,,Active,Community,03/31/2022
+1258,MN,03/24/2022,Yes,SPC,Other,Male,Started,Buprenorphine,Jail/Prison Medical,20,28,,Completed,Community,03/29/2022
+1260,MN,03/26/2022,Yes,TCN,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,104,25,,Completed,Community,03/29/2022
+1261,MN,03/31/2022,Yes,SPC,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,21,26,,Completed,Community,04/01/2022
+1262,MN,03/31/2022,No,,,,,,Jail/Prison Medical,2,,,,,
+1263,MN,04/01/2022,No,,,,,No MOUD,Referred by friend/family,17,,,,,
+1267,MN,04/04/2022,Yes,TCN,Other,Male,Started,Buprenorphine,Jail/Prison Medical,89,50,,Completed,Community,04/07/2022
+1272,PR,04/27/2022,No,,Hispanic,Male,Started,Methadone,"Research Staff
+",1043,39,,,,
+1273,PR,04/27/2022,No,,,,Started,Methadone,Research Staff,1320,24,,,,
+1274,PR,04/27/2022,No,,,,Started,Methadone,Research Staff,5695,45,,,,
+1279,MN,04/29/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,82,43,,Completed,Community,05/02/2022
+1286,BX,05/04/2022,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Discharge Planner,217,21,,,,
+1288,NC,05/05/2022,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,44,39,,Completed,Jail,05/05/2022
+1289,NC,05/05/2022,No,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,36,27,,Completed,Jail,05/05/2022
+1290,MN,05/10/2022,No,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,99,32,,,,
+1291,MN,05/10/2022,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,15,44,,,,
+1292,MN,05/11/2022,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison Medical,9,30,,,,
+1293,PR,05/18/2022,No,,,,Started,Methadone,Research Staff,942,35,,,,
+1294,MN,05/18/2022,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison Medical,13,47,,Completed,Community,05/26/2022
+1295,MN,05/24/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,16,30,,Completed,Community,05/25/2022
+1296,MN,05/24/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,26,33,,Active,Jail,06/09/2022
+1298,MN,05/31/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,52,24,,Not Released in 90 Days,Jail,06/03/2022
+1299,MN,06/03/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,18,29,,,,
+1301,CT,06/06/2022,No,,,,Started,Methadone,Community SUD Tx,208,52,,,,
+1303,MN,06/06/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,20,27,,Not Released in 90 Days,Jail,06/16/2022
+1304,NC,06/10/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,209,30,,Did Not Complete BL,Jail,06/10/2022
+1305,CT,06/10/2022,Yes,,Hispanic,Male,Started,Methadone,Community SUD Tx,95,35,,Completed,Community,06/14/2022
+1306,MN,06/10/2022,No,,,,,,Referred by friend/family,9,,,,,
+1307,MN,06/14/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,26,37,,,,
+1308,MN,06/15/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,17,30,,Completed,Jail,06/16/2022
+1309,NC,06/16/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison SUD Tx,42,41,,Deceased,Jail,06/16/2022
+1310,MN,06/17/2022,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison Medical,21,24,,Completed,Jail,06/22/2022
+1311,MN,06/17/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,14,47,,Deceased,Jail,06/21/2022
+1312,MN,06/17/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,12,27,,Completed,Jail,06/28/2022
+1314,MN,06/21/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,18,37,,Active,Jail,06/27/2022
+1315,MN,06/21/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,97,33,,,,
+1316,MN,06/22/2022,Yes,,Hispanic,Female,Started,Buprenorphine,Jail/Prison Medical,83,32,,,,
+1318,MN,06/23/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,65,58,,,,
+1320,MN,06/28/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Referred by friend/family,29,49,,,,
+1321,PR,06/28/2022,No,,,,Started,Methadone,RS outreach in prison,1064,46,,,,
+1323,PR,06/28/2022,No,,,,Started,Methadone,"RS outreach in prison
+",639,45,,,,
+1324,MN,06/28/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,99,30,,Not Released in 90 Days,Jail,07/06/2022
+1325,MN,06/28/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,24,30,,Active,Jail,07/11/2022
+1326,MN,06/28/2022,No,,,,,No MOUD,Jail/Prison Medical,63,,,,,
+1328,MN,06/30/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,99,34,,,,
+1329,MN,06/30/2022,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison Medical,8,41,,Active,Jail,07/06/2022
+1330,MN,06/30/2022,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,9,26,,Not Released in 90 Days,Jail,07/15/2022
+1331,MN,07/01/2022,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,59,21,,Not Released in 90 Days,Jail,07/12/2022
+1332,MN,07/05/2022,Yes,,Hispanic,Female,Started,Buprenorphine,Jail/Prison Medical,27,30,,,,
+1334,MN,07/06/2022,No,,Hispanic,Female,Started,Buprenorphine,Jail/Prison Medical,23,27,,,,
+1336,MN,07/07/2022,Yes,,Non-Hispanic White,Female,Continued,Buprenorphine,Jail/Prison Medical,9,41,,,,
+1337,MN,07/07/2022,No,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,36,23,10,,,
+1338,MN,07/07/2022,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,29,30,,,,
+1339,NC,07/08/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,230,30,,Active,Community,07/08/2022
+1340,MN,07/11/2022,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison Medical,55,24,,,,
+1344,PR,07/14/2022,No,,Hispanic,Male,Continued,Methadone,"RS outreach inside prison
+",211,37,,,,
+1347,MN,07/15/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,36,31,,,,
+1350,MN,07/19/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,11,30,,,,
+1351,MN,07/19/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,21,28,,Not Released in 90 Days,Jail,07/19/2022
+1352,MN,07/21/2022,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,12,33,11,Not Released in 90 Days,Jail,07/22/2022
+1353,CT,07/21/2022,No,,,,Started,Methadone,Community SUD Tx,622,60,6,,,
+1354,MN,07/21/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,8,25,10,,,
+1355,MN,07/22/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,21,20,10,,,
+1356,MN,07/22/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,17,28,10,,,
+1358,MN,07/25/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,89,18,11,Active,Jail,07/25/2022
+1359,PR,07/26/2022,Yes,,Hispanic,Male,,No MOUD,Other community organization staff,5122,40,11,,,
+1360,MN,07/26/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,19,41,11,Not Released in 90 Days,Jail,08/02/2022
+1361,CT,07/27/2022,No,,,,,,Community SUD Tx,95,,,,,
+1362,BX,07/27/2022,Yes,,Hispanic,Male,Continued,Methadone,Jail/Prison Discharge Planner,113,23,6,Active,Community,07/28/2022
+1363,MN,07/29/2022,No,,,,,,Jail/Prison Medical,73,,,,,
+1365,MN,08/01/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,76,42,11,Not Released in 90 Days,Jail,08/01/2022
+1366,PR,08/02/2022,Yes,,Hispanic,Male,Continued,Methadone,"RS in jail outreach
+",5127,40,11,,,
+1367,CT,08/03/2022,Yes,,Non-Hispanic Black,Male,Started,Methadone,Community SUD Tx,223,57,11,Active,Community,08/04/2022
+1368,MN,08/03/2022,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,8,20,11,Active,Jail,08/09/2022
+1369,MN,08/03/2022,Yes,,Other,Female,Continued,Buprenorphine,Referred by friend/family,12,39,11,,,
+1370,MN,08/10/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,50,23,11,,,
+1371,MN,08/11/2022,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,24,23,11,,,
+1372,MN,08/11/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,125,42,11,Did Not Complete BL,Jail,08/16/2022
+1373,MN,08/12/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,27,32,11,Active,Community,08/18/2022
+1374,CT,08/17/2022,No,,Non-Hispanic White,,Started,Methadone,Community SUD Tx,118,50,11,,,
+1376,MN,08/17/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,75,30,11,Not Released in 90 Days,Jail,08/18/2022
+1377,MN,08/18/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,20,22,10,Active,Jail,08/23/2022
+1378,MN,08/18/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,40,26,11,,,
+1379,MN,08/18/2022,Yes,,Hispanic,Female,Continued,Buprenorphine,Jail/Prison Medical,20,30,10,,,
+1381,MN,08/22/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,14,44,11,Not Released in 90 Days,Jail,09/12/2022
+1382,MN,08/23/2022,No,,,,Started,Buprenorphine,Jail/Prison Medical,14,38,11,,,
+1383,MN,08/23/2022,Yes,,Other,Male,Started,Buprenorphine,Referred by friend/family,25,22,11,Active,Community,08/29/2022
+1384,BX,08/23/2022,Yes,,Hispanic,Male,Continued,Methadone,Study Poster,201,46,11,Active,Community,08/24/2022
+1385,MN,08/24/2022,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison SUD Tx,79,31,10,Active,Jail,08/24/2022
+1386,MN,08/24/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,19,26,11,,,
+1388,NC,08/30/2022,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,216,32,11,Active,Community,08/30/2022
+1389,NC,08/30/2022,No,,,,,,Referred by friend/family,136,,,,,
+1390,MN,08/30/2022,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison SUD Tx,32,39,9,Active,Community,08/30/2022
+1391,MN,09/02/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,50,25,11,Not Released in 90 Days,Jail,09/21/2022
+1392,MN,09/13/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison SUD Tx,110,35,11,Active,Jail,09/13/2022
+1394,MN,09/14/2022,Yes,,Non-Hispanic White,Male,Started,Methadone,Jail/Prison Medical,216,40,11,,,
+1395,CT,09/14/2022,No,,,,,,Study Poster,19,,,,,
+1397,NC,09/14/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Community SUD Tx,127,39,11,,,
+1398,MN,09/15/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,253,25,11,,,
+1399,CT,09/18/2022,Yes,,Hispanic,Male,Continued,Methadone,Community SUD Tx,56,49,10,Active,Community,09/20/2022
+1400,MN,09/19/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,25,30,11,Active,Jail,09/19/2022
+1401,CT,09/20/2022,Yes,,Other,Female,Continued,Methadone,Study Poster,2080,38,11,,,
+1402,MN,09/21/2022,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Medical,28,31,10,,,
+1404,MN,09/22/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,20,26,10,,,
+1405,BX,09/23/2022,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Discharge Planner,259,35,11,Active,Community,09/23/2022
+1406,PR,09/23/2022,No,,,,,,RS Prison Outreach,417,,,,,
+1408,PR,09/23/2022,No,,,,,,"RS Prison Outreach
+",4620,,,,,
+1411,MN,09/26/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,24,35,11,,,
+1412,MN,09/29/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,63,30,11,Active,Jail,09/29/2022
+1413,MN,09/29/2022,Yes,,Other,Female,Started,Buprenorphine,Referred by friend/family,90,29,11,Active,Jail,09/29/2022
+1414,CT,10/10/2022,Yes,,Hispanic,Male,Started,Methadone,Community SUD Tx,130,41,8,Active,Community,10/11/2022
+1418,CT,10/02/2022,No,,,,,,Study Poster,222,,,,,
+1419,CT,10/03/2022,No,,,,,,Community SUD Tx,16,,,,,
+1420,MN,10/07/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,106,31,11,Pt Withdrew,Jail,10/07/2022
+1421,MN,10/07/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,26,45,9,Active,Community,10/12/2022
+1422,CT,10/10/2022,No,,,,,No MOUD,Referred by friend/family,373,37,10,,,
+1423,MN,10/10/2022,No,,,,,,Jail/Prison Medical,76,,,,,
+1425,MN,10/11/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,145,27,11,Active,Jail,10/11/2022
+1426,MN,10/12/2022,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Medical,49,34,11,Active,Community,10/21/2022
+1427,BX,10/13/2022,Yes,,Hispanic,Male,Continued,Methadone,Jail/Prison Discharge Planner,3,35,9,,,
+1429,MN,10/14/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,224,23,9,Active,Jail,10/14/2022
+1431,PR,10/17/2022,No,,,,Started,Methadone,Research Staff In prison Outreach,3008,39,11,,,
+1433,PR,10/17/2022,No,,,,Started,Methadone,Research Staff In prison Outreach,462,43,11,,,
+1434,PR,10/17/2022,No,,,,Started,Methadone,Research Staff In prison Outreach,12218,50,11,,,
+1435,MN,10/18/2022,No,,,,,,Jail/Prison Medical,250,,,,,
+1436,BX,10/19/2022,Yes,,Other,Male,Continued,Methadone,Jail/Prison Discharge Planner,76,45,9,,,
+1438,BX,10/24/2022,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Discharge Planner,215,45,11,Active,Community,10/24/2022
+1439,NC,10/25/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,3,32,10,,,
+1440,CT,10/26/2022,No,,Non-Hispanic Black,Male,,No MOUD,Referred by friend/family,-130,50,11,,,
+1442,BX,10/27/2022,Yes,,Other,Male,Started,Methadone,Jail/Prison Discharge Planner,249,28,9,Active,Community,10/27/2022
+1443,MN,10/27/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,112,31,11,Active,Jail,10/27/2022
+1444,MN,10/27/2022,No,,,,,,Jail/Prison Medical,3,,,,,
+1445,MN,10/28/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Referred by friend/family,28,49,11,,,
+1446,MN,10/31/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,93,35,11,,,
+1447,BX,10/31/2022,Yes,,Hispanic,Male,Continued,Methadone,Jail/Prison Discharge Planner,147,36,10,,,
+1448,MN,11/01/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,94,40,11,Active,Jail,11/01/2022
+1449,MN,11/03/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,85,51,11,Not Released in 90 Days,Jail,11/03/2022
+1450,PR,11/07/2022,No,,,,,No MOUD,Jail/Prison Discharge Planner,1096,35,11,,,
+1451,MN,11/07/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,19,42,10,Not Released in 90 Days,Jail,11/07/2022
+1452,MN,11/08/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,68,46,10,Active,Jail,11/08/2022
+1453,MN,11/10/2022,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,90,39,11,Not Released in 90 Days,Jail,11/10/2022
+1454,CT,11/10/2022,Yes,,Non-Hispanic Black,Male,Continued,Methadone,Community SUD Tx,14,24,4,Active,Community,11/11/2022
+1456,MN,11/11/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,61,31,11,Active,Community,11/14/2022
+1457,MN,11/11/2022,Yes,,Hispanic,Female,Started,Buprenorphine,Jail/Prison Medical,7,40,11,Active,Jail,11/15/2022
+1458,MN,11/14/2022,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison Medical,29,33,11,Active,Jail,11/16/2022
+1460,MN,11/14/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,11,30,10,Active,Jail,11/14/2022
+1462,MN,11/15/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,22,31,11,,,
+1463,BX,11/16/2022,No,,,,Started,Buprenorphine,Jail/Prison Discharge Planner,242,,0,,,
+1465,MN,11/17/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,25,38,11,Active,Jail,11/18/2022
+1466,MN,11/17/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,36,23,9,,,
+1467,MN,11/17/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,38,28,11,Active,Jail,11/17/2022
+1468,MN,11/17/2022,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Referred by friend/family,20,43,10,,,
+1470,MN,11/17/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,29,28,11,Not Released in 90 Days,Jail,11/17/2022
+1471,CT,11/17/2022,Yes,,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,16,37,11,,,
+1472,MN,11/21/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Referred by friend/family,79,36,11,Not Released in 90 Days,Jail,11/28/2022
+1473,MN,11/21/2022,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,204,35,11,,,
+1474,MN,11/22/2022,No,,,,,No MOUD,Referred by friend/family,51,,,,,
+1475,CT,11/22/2022,Yes,,Hispanic,Male,Continued,Methadone,Community SUD Tx,103,39,11,Active,Community,11/29/2022
+1476,CT,11/22/2022,Yes,,Non-Hispanic Black,Male,Continued,Methadone,Community SUD Tx,49,36,11,Active,Community,12/15/2022
+1477,MN,11/23/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,22,19,8,Did Not Complete BL,Jail,11/29/2022
+1479,MN,11/28/2022,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,11,46,11,Not Released in 90 Days,Jail,11/30/2022
+1480,MN,11/28/2022,Yes,,Other,Male,,No MOUD,Referred by friend/family,47,49,11,,,
+1481,MN,11/28/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,75,46,11,Active,Jail,11/30/2022
+1482,MN,11/29/2022,Yes,,Non-Hispanic White,Female,Continued,Buprenorphine,Jail/Prison Medical,11,38,10,,,
+1484,MN,12/01/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,13,40,9,Active,Jail,12/06/2022
+1485,MN,12/01/2022,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,65,40,10,,,
+1486,MN,12/01/2022,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,117,24,11,,,
+1487,MN,12/01/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,9,41,11,,,
+1489,MN,12/01/2022,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison Medical,44,31,10,Not Released in 90 Days,Jail,12/08/2022
+1490,PR,12/01/2022,Yes,,Hispanic,Male,Continued,Methadone,Community SUD Tx,2534,29,11,Active,Community,12/01/2022
+1491,MN,12/05/2022,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,95,26,11,Not Released in 90 Days,Jail,12/09/2022
+1493,MN,12/06/2022,No,,,,,,Jail/Prison Medical,16,,,,,
+1494,MN,12/06/2022,No,,Non-Hispanic White,Female,Continued,Buprenorphine,Jail/Prison Medical,147,39,10,,,
+1495,MN,12/07/2022,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison Medical,100,27,10,,,
+1496,MN,12/14/2022,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,36,39,11,Active,Jail,12/14/2022
+1497,CT,12/15/2022,Yes,,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,152,60,11,Active,Community,12/20/2022
+1498,MN,12/15/2022,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,66,35,10,Not Released in 90 Days,Jail,12/16/2022
+1501,PR,12/19/2022,Yes,,Hispanic,Male,,No MOUD,Prison outreach by research staff,753,48,10,Active,Community,12/19/2022
+1505,MN,01/03/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,3,46,11,Active,Community,01/05/2023
+1506,CT,01/06/2023,No,,,,,,Community SUD Tx,,,,,,
+1507,CT,01/17/2023,No,,,,,,Study Poster,133,,,,,
+1508,NC,01/26/2023,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison SUD Tx,24,47,11,Active,Jail,01/26/2023
+1509,MN,01/30/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison Medical,21,35,11,,,
+1510,NC,01/30/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,192,33,11,Active,Jail,01/30/2023
+1511,CT,01/30/2023,Yes,,Hispanic,Female,Continued,Methadone,Community SUD Tx,14,59,11,Active,Community,02/15/2023
+1513,NC,02/06/2023,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison SUD Tx,46,39,11,Active,Jail,02/06/2023
+1514,NC,02/08/2023,Yes,,Other,Male,,No MOUD,Jail/Prison SUD Tx,36,32,11,Active,Jail,02/08/2023
+1515,NC,02/09/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison SUD Tx,104,38,8,Active,Jail,02/09/2023
+1517,NC,02/09/2023,Yes,,Non-Hispanic Black,Female,,No MOUD,Referred by friend/family,12,30,10,Active,Community,02/10/2023
+1518,NC,02/09/2023,No,,,,,,Referred by friend/family,30,,,,,
+1519,MN,02/13/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison Medical,87,58,11,Not Released in 90 Days,Jail,02/14/2023
+1520,CT,02/13/2023,Yes,,Non-Hispanic White,Male,Started,Methadone,Community SUD Tx,761,49,11,Active,Community,02/14/2023
+1521,BX,02/13/2023,No,,,,,,Community SUD Tx,18,,,,,
+1522,NC,02/16/2023,Yes,,Other,Female,,No MOUD,Jail/Prison SUD Tx,133,25,11,Active,Jail,02/16/2023
+1524,MN,02/16/2023,No,,,,,,Referred by friend/family,36,,,,,
+1527,MN,02/20/2023,Yes,,Non-Hispanic White,Female,Continued,Buprenorphine,Jail/Prison Medical,115,43,11,Active,Community,02/27/2023
+1528,MN,02/21/2023,No,,,,,No MOUD,Referred by friend/family,43,37,11,,,
+1531,MN,02/21/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,19,35,11,Active,Jail,02/21/2023
+1533,MN,02/21/2023,No,,,,,,Referred by friend/family,14,,,,,
+1534,MN,02/22/2023,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison MH/SW,6,35,10,,,
+1535,NC,02/23/2023,No,,Other,Male,,No MOUD,Jail/Prison SUD Tx,34,39,11,,,
+1536,MN,02/27/2023,Yes,,Non-Hispanic White,Male,Continued,Bupernorphone,Referred by friend/family,7,41,10,Active,Community,02/28/2023
+1537,MN,02/27/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,122,24,11,Active,Jail,02/27/2023
+1538,MN,02/27/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Study Brochure,101,50,11,Active,Jail,02/27/2023
+1539,NC,02/28/2023,Yes,,Other,Female,,No MOUD,Jail/Prison SUD Tx,6,32,11,Active,Jail,02/28/2023
+1540,CT,02/28/2023,No,,,,,No MOUD,Community SUD Tx,246,40,11,,,
+1541,NC,02/28/2023,No,,,,,,Referred by friend/family,11,,,,,
+1542,NC,02/28/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,47,38,11,Active,Community,03/01/2023
+1543,MN,03/01/2023,No,,,,,,Jail/Prison Medical,80,,,,,
+1544,MN,03/02/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,11,33,11,,,
+1545,MN,03/02/2023,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison Medical,8,24,11,,,
+1546,MN,03/03/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,28,55,11,,,
+1548,MN,03/03/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,21,55,11,,,
+1550,MN,03/07/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,15,33,9,Active,Community,03/07/2023
+1552,MN,03/09/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,12,40,11,,,
+1553,MN,03/09/2023,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,78,20,11,Active,Jail,03/09/2023
+1554,NC,03/10/2023,Yes,,Other,Male,,No MOUD,Jail/Prison SUD Tx,825,41,11,Active,Jail,03/10/2023
+1555,MN,03/10/2023,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,10,37,11,Not Released in 90 Days,Jail,03/14/2023
+1556,CT,03/10/2023,No,,,,Continued,Methadone,Community SUD Tx,8,54,11,,,
+1557,MN,03/10/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,155,56,11,Active,Community,03/22/2023
+1559,CT,03/13/2023,No,,,,,,Study Poster,408,,,,,
+1560,MN,03/13/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,42,51,11,,,
+1563,MN,03/14/2023,Yes,,Non-Hispanic Black,Female,Continued,Buprenorphine,Jail/Prison Medical,15,31,11,Active,Jail,03/14/2023
+1564,MN,03/14/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,15,31,11,,,
+1565,CT,03/14/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Community SUD Tx,772,57,10,,,
+1566,MN,03/14/2023,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison Medical,25,39,11,Active,Community,03/14/2023
+1567,MN,03/15/2023,Yes,,Non-Hispanic Black,Male,Started,No MOUD,Referred by friend/family,21,54,11,,,
+1568,NC,03/16/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,23,44,11,Active,Jail,03/16/2023
+1569,MN,03/16/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,6,21,9,,,
+1570,MN,03/17/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,58,37,7,,,
+1571,MN,03/17/2023,No,,,,,,Jail/Prison Medical,14,,,,,
+1572,MN,03/17/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Referred by friend/family,49,42,11,Active,Community,03/20/2023
+1573,MN,03/17/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,14,29,11,,,
+1574,MN,03/20/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,14,34,11,,,
+1575,MN,03/20/2023,No,,,,,,Jail/Prison Medical,83,,,,,
+1576,CT,03/20/2023,Yes,,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,180,41,11,Active,Community,03/29/2023
+1577,NC,03/21/2023,Yes,,Non-Hispanic White,Female,,No MOUD,Jail/Prison SUD Tx,5,35,11,Active,Jail,03/21/2023
+1578,NC,03/22/2023,Yes,,Non-Hispanic White,Female,,No MOUD,Jail/Prison SUD Tx,49,24,11,Deceased,Jail,03/22/2023
+1579,MN,03/22/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Jail/Prison Medical,18,37,11,,,
+1580,CT,03/22/2023,No,,,,,,Jail/Prison Discharge Planner,322,,,,,
+1581,MN,03/22/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,25,40,11,Active,Jail,03/22/2023
+1582,MN,03/22/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,192,28,11,Active,Community,03/23/2023
+1583,MN,03/22/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,96,38,11,,,
+1584,CT,03/23/2023,No,,,,,,Jail/Prison Discharge Planner,95,,,,,
+1585,MN,03/24/2023,Yes,,Other,Male,,No MOUD,Referred by friend/family,28,40,11,,,
+1586,MN,03/24/2023,Yes,,Other,Male,Started,Buprenorphine,Referred by friend/family,78,38,11,,,
+1587,NC,03/28/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison SUD Tx,474,30,7,Active,Jail,03/28/2023
+1588,MN,03/28/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,364,57,11,Active,Community,03/29/2023
+1590,NC,03/30/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,65,30,11,Active,Jail,03/30/2023
+1591,MN,03/30/2023,Yes,,Other,Female,Continued,Buprenorphine,Jail/Prison Medical,21,31,11,Active,Community,04/04/2023
+1592,MN,03/31/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,5,31,10,,,
+1593,NC,04/03/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison SUD Tx,26,39,7,Active,Jail,04/03/2023
+1594,MN,04/03/2023,No,,,,,,Referred by friend/family,41,,,,,
+1595,MN,04/03/2023,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,8,26,11,,,
+1596,MN,04/04/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,77,30,11,Active,Community,04/04/2023
+1597,MN,04/04/2023,Yes,,Non-Hispanic Black,Male,Started,No MOUD,Jail/Prison Medical,33,26,9,Active,Community,04/04/2023
+1598,MN,04/05/2023,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,91,43,10,,,
+1600,MN,04/05/2023,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Jail/Prison Medical,8,19,10,,,
+1602,MN,04/06/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,9,21,11,,,
+1603,CT,04/06/2023,Yes,,Non-Hispanic White,Male,Continued,Methadone,Community SUD Tx,89,33,11,,,
+1604,MN,04/07/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,93,40,11,Active,Community,04/07/2023
+1608,MN,04/10/2023,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,248,32,10,,,
+1609,MN,04/10/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,89,38,11,Active,Jail,04/13/2023
+1611,NC,04/12/2023,No,,,,,,Referred by friend/family,35,,,,,
+1612,MN,04/13/2023,Yes,,Non-Hispanic Black,Female,Started,Buprenorphine,Jail/Prison Medical,17,31,10,,,
+1613,PR,04/13/2023,Yes,,Hispanic,Male,,No MOUD,Research staff outreach in prison ,516,25,11,Active,Community,04/13/2023
+1614,MN,04/14/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison Medical,3,25,11,,,
+1617,MN,04/20/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,47,29,11,Active,Community,04/20/2023
+1620,MN,04/21/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,11,35,11,Active,Jail,05/02/2023
+1621,NC,04/21/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Referred by friend/family,20,26,11,Active,Community,04/25/2023
+1622,MN,04/21/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,102,28,11,Active,Jail,04/27/2023
+1628,MN,04/25/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,10,39,11,Active,Community,04/26/2023
+1629,NC,04/27/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison SUD Tx,86,38,10,Active,Jail,04/27/2023
+1630,MN,04/27/2023,Yes,,Other,Female,Started,Buprenorphine,Referred by friend/family,46,23,11,Active,Community,05/02/2023
+1631,MN,04/27/2023,Yes,,Other,Male,Started,Buprenorphine,Referred by friend/family,78,24,8,,,
+1632,PR,04/28/2023,Yes,,Hispanic,Male,Started,Methadone,"RS outreach in prison
+",2281,45,11,Active,Community,04/28/2023
+1634,CT,04/28/2023,No,,,,,,Community SUD Tx,32,,,,,
+1635,CT,05/01/2023,No,,,,,,Jail/Prison Discharge Planner,229,,,,,
+1637,MN,05/01/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,17,26,11,,,
+1639,MN,05/02/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Jail/Prison Medical,4,58,11,,,
+1641,CT,05/02/2023,Yes,,Hispanic,Male,,No MOUD,Other community organization staff,235,35,6,,,
+1642,NC,05/03/2023,No,,,,,,Jail/Prison SUD Tx,28,,,,,
+1643,CT,05/03/2023,No,,,,,,"Probation
+",202,,,,,
+1644,MN,05/03/2023,No,,,,,,Referred by friend/family,2,,,,,
+1646,MN,05/03/2023,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Medical,27,34,11,,,
+1647,MN,05/04/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,17,40,10,Active,Community,05/10/2023
+1648,CT,05/04/2023,Yes,,Hispanic,Male,Started,Methadone,Jail/Prison SUD Tx,319,44,10,Active,Jail,05/04/2023
+1649,MN,05/05/2023,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Medical,8,30,11,,,
+1650,MN,05/05/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Referred by friend/family,4,55,11,Active,Jail,05/11/2023
+1651,MN,05/08/2023,Yes,,Hispanic,Male,Started,Buprenorphine,Jail/Prison Medical,95,21,11,Active,Jail,05/11/2023
+1652,MN,05/08/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,14,34,11,Active,Jail,05/23/2023
+1654,MN,05/09/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,85,27,11,,,
+1655,MN,05/15/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Referred by friend/family,14,45,11,Staff Withdrew,Jail,05/23/2023
+1656,MN,05/15/2023,Yes,,Other,Male,,No MOUD,Jail/Prison Medical,366,40,11,,,
+1657,NC,05/16/2023,No,,,,,,Referred by friend/family,58,,,,,
+1658,MN,05/17/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Referred by friend/family,110,27,11,,,
+1659,MN,05/19/2023,Yes,,Other,Male,Continued,Buprenorphine,Jail/Prison Medical,106,31,11,,,
+1661,MN,05/24/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,75,28,10,Active,Jail,06/01/2023
+1663,NC,05/25/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison SUD Tx,6,38,11,Active,Jail,05/25/2023
+1664,MN,05/25/2023,Yes,,Hispanic,Male,Continued,Buprenorphine,Jail/Prison Medical,23,27,11,,,
+1665,MN,05/25/2023,Yes,,Non-Hispanic White,Female,Started,Buprenorphine,Referred by friend/family,30,34,11,,,
+1666,NC,05/26/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Jail/Prison SUD Tx,3,54,8,Active,Jail,05/26/2023
+1667,MN,05/30/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,39,37,10,Active,Jail,06/20/2023
+1668,MN,05/30/2023,Yes,,Non-Hispanic White,Female,Continued,Buprenorphine,Jail/Prison Medical,14,25,10,,,
+1669,NC,05/31/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,30,29,11,Active,Community,06/05/2023
+1670,NC,05/31/2023,Yes,,Non-Hispanic White,Male,,No MOUD,Referred by friend/family,27,34,8,Active,Community,06/06/2023
+1671,MN,05/31/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,105,28,11,Active,Community,06/05/2023
+1673,MN,06/01/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Referred by friend/family,35,20,11,,,
+1674,MN,06/02/2023,Yes,,Other,Male,Started,Buprenorphine,Referred by friend/family,185,46,11,Active,Jail,06/27/2023
+1675,MN,06/05/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,15,64,11,Active,Community,06/06/2023
+1676,NC,06/05/2023,Yes,,Non-Hispanic White,Female,Continued,Buprenorphine,Referred by friend/family,10,36,11,Active,Community,06/14/2023
+1677,MN,06/05/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,102,28,10,,,
+1678,NC,06/06/2023,No,,,,,,Referred by friend/family,62,,,,,
+1679,NC,06/06/2023,Yes,,Other,Male,,No MOUD,Referred by friend/family,75,49,11,Active,Community,06/14/2023
+1680,MN,06/07/2023,Yes,,Other,Female,Started,Buprenorphine,Jail/Prison Medical,17,46,10,Active,Jail,06/20/2023
+1681,MN,06/07/2023,Yes,,Non-Hispanic Black,Male,Continued,Buprenorphine,Referred by friend/family,22,62,11,,,
+1682,MN,06/08/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison Medical,19,33,11,,,
+1684,NC,06/12/2023,Yes,,Other,Male,,No MOUD,Jail/Prison SUD Tx,146,52,11,Active,Jail,06/12/2023
+1685,NC,06/15/2023,Yes,,Non-Hispanic Black,Male,Started,Buprenorphine,Jail/Prison SUD Tx,36,31,11,Active,Jail,06/15/2023
+1686,NC,06/15/2023,Yes,,Non-Hispanic Black,Male,,No MOUD,Referred by friend/family,51,44,11,Active,Community,06/21/2023
+1687,MN,06/16/2023,Yes,,Non-Hispanic White,Male,Started,Buprenorphine,Jail/Prison Medical,143,38,10,,,
+1690,MN,06/21/2023,No,,,Female,Started,Buprenorphine,Referred by friend/family,6,32,11,,,
+1692,MN,06/23/2023,Yes,,Other,Female,,No MOUD,Jail/Prison Medical,51,30,11,,,
+1694,MN,06/26/2023,No,,,,,No MOUD,Referred by friend/family,83,,,,,
+1695,NC,06/29/2023,Yes,,Non-Hispanic White,Male,Continued,Buprenorphine,Jail/Prison SUD Tx,41,50,10,Active,Jail,06/29/2023
+1697,MN,06/29/2023,Yes,,Other,Male,Started,Buprenorphine,Jail/Prison Medical,54,24,9,,,
